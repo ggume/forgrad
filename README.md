@@ -24,9 +24,14 @@
 
 ## 일정
 MARCH: 배경지식 수집 및 공부
+
 APRIL-MAY: DATA FEATURE 추출, 모델 공부
+
 JUNE-AUGUST: 실제 데이터 분석
+
 SEPTEMBER: 모델의 성능 분석, 시각화기법공부
+
 OCTOBER: 데이터 시각화 및 성능 분석
+
 NOVEMBER: 최종 작품 보고서 작성
 
